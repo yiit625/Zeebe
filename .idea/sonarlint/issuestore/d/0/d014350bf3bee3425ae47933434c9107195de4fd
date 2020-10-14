@@ -1,0 +1,7 @@
+
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Р∙┼1
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(┤с└К     8╛ан╫Т.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ню╩У√    8╛ан╫Т.
+Дsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "jobWorker".(▄╛ф╥¤    8╛ан╫Т.

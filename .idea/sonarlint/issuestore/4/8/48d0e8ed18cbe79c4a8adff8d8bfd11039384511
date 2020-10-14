@@ -1,0 +1,22 @@
+
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(ŠÈç’ùÿÿÿÿ8ÇÇšŞ’.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ŠÈç’ùÿÿÿÿ8»Ñâš.
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(î‹Ğøÿÿÿÿ8»ºœŞ’.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×÷´ 
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Öôíéøÿÿÿÿ8„ûäš.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(­îÊ“ûÿÿÿÿ8ƒÚ×Ö’.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(áê…‡ûÿÿÿÿ8¤ßš.
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(áê…‡ûÿÿÿÿ8Éñ™Ş’.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8¯Òš.
+„squid:S1488v"aImmediately return this expression instead of assigning it to the temporary variable "jobWorker".(Ü¾äÒıÿÿÿÿ8«”Ş’.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8ìœ™Ş’.
+„squid:S1488H"aImmediately return this expression instead of assigning it to the temporary variable "jobWorker".(Ü¾äÒıÿÿÿÿ8áñØÖ’.

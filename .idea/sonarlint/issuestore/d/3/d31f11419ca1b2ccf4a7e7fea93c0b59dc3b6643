@@ -1,0 +1,9 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'io.zeebe.client.ZeebeClient'.(„¨ÅÃûÿÿÿÿ8´µíÝ’.
+Š"squid:ClassVariableVisibilityCheck"PMake code a static final constant or non-public and provide accessors if needed.(âˆá›ÿÿÿÿÿ8À¾õÝ’.
+Œ"squid:ClassVariableVisibilityCheck
+"XMake responseEnum a static final constant or non-public and provide accessors if needed.(¥î¢38À¾õÝ’.
+ˆ"squid:ClassVariableVisibilityCheck"SMake message a static final constant or non-public and provide accessors if needed.(ÕÃØ·8À¾õÝ’.
+…"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(¹›Ö¹8À¾õÝ’.
+ˆ"squid:ClassVariableVisibilityCheck	"SMake success a static final constant or non-public and provide accessors if needed.(Ûå¨•8µì‚Þ’.
+‚squid:S1845"eRename method "success" to prevent any misunderstanding/clash with field "success" defined on line 9.(­ÝÆ8µì‚Þ’.

@@ -1,0 +1,13 @@
+package com.example.zebeedemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ZebeeDemoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

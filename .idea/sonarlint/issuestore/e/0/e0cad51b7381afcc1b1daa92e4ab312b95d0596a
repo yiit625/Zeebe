@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸìÕşÿÿÿÿ8º³¨Ş’.
+`squid:S1854"=Remove this useless assignment to local variable "jobWorker".(Ü¾äÒıÿÿÿÿ8º³¨Ş’.
+Qsquid:S1481".Remove this unused "jobWorker" local variable.(Ü¾äÒıÿÿÿÿ8º³¨Ş’.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´áÀŠÿÿÿÿÿ8º³¨Ş’.
